@@ -28,6 +28,8 @@ This project analyzes sales data using SQL.
 - Aggregate Functions
 
 ## Dashboard
+<img width="1600" height="612" alt="image" src="https://github.com/user-attachments/assets/903d81ea-4f15-4040-a53f-509050159490" />
+
 
 ![Dashboard](dashboard.png)
 
